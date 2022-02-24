@@ -1,0 +1,2 @@
+# -Un-cliente-real-
+Llegó el momento de interactuar con un cliente real para ello buscaremos un  establecimiento de alimentos de nuestro sector y/o el emprendimiento de un amigo o familiar, ofrecemos nuestros servicios de Programadores y donaremos un desarrollo  en React el cual será una interfaz interactiva que reciba los inputs del usuario y se los entregué al dueño del comercio como un pedido digital
