@@ -3,6 +3,7 @@ import './App.css';
 import NavBar from './Components/Nav/NavBar';
 import SectionHome from './Components/SectionHome/SectionHome'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import SectionMap from './Components/SectionMap/SectionMap';
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <div>
       <NavBar/>
       <SectionHome/>
+      <SectionMap/>
     </div>
   );
 }

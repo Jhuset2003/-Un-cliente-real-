@@ -3,13 +3,14 @@ import "../SectionHome/SectionHome.css"
 
 function SectionHome(){
     return(
-        <div className="section-home">
-            <div><h1>Bienvenido a Delicias Mary</h1></div>
+        <section className="section-home">
+            <div className="titleC">
+                <h1>Bienvenido a <strong>Delicias Mary</strong></h1>
+            </div>
             <div className="img-container">
                 <span><h2>Disfrutalo</h2></span>
-                
             </div>
-        </div>
+        </section>
     )
 }
 

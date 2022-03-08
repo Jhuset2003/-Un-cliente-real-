@@ -1,5 +1,9 @@
-
+*{
+    box-sizing: border-box;
+}
 
 body{
-    background-color: black;
+    background-color: black !important;
+    background-image: url(../src/Source/Img/Textura\ comida\ Tranparente.png);
+    background-size: cover;
 }
