@@ -1,0 +1,27 @@
+.section-home{
+    background-color: black;
+    background-image: url(../../Source/Img/Textura\ comida\ Tranparente.png);
+    background-size: cover;
+    height: 100vh;
+}
+.img-container  {
+    width: 550px;
+    height: 550px;
+    background-image: url(../../Source/Img/pexels-arthur-brognoli-3343621.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    position: absolute;
+    left: -50%;
+    top: 25%;
+}
+.img-container span {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    align-self: center;
+    height: 100%;
+    width: 100%;
+}
+.section-home h1{
+    padding-top: 110px;
+}

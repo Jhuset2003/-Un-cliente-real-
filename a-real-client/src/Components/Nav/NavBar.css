@@ -1,0 +1,49 @@
+.svg-inline--fa{
+    height: 3em;
+    vertical-align: 1.875em;
+    margin-right: 50px;
+}
+.nav-link{
+    display: flex !important;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1.5rem 0rem;
+}
+.offcanvas-end{
+    width:auto !important;
+}
+.offcanvas{
+    bottom:inherit !important; 
+}
+.navbar-brand {
+    display: flex;
+    flex-wrap: inherit !important;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+}
+.navbar-brand img{
+    width:81px;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{
+    padding: 0 !important;
+    background-color:rgb(255, 255, 255)
+}
+.navbar{
+    padding: 0 !important;
+}
+.navbar-toggler{
+    margin-right: 20px;
+    border-radius: 50% !important;
+    background-color:white !important;
+    width: 60px;
+    height: 60px;
+
+}
+.Cart{
+    margin-left: 20px;
+}
+.navbar-toggler:focus{
+    box-shadow: none !important;
+}
