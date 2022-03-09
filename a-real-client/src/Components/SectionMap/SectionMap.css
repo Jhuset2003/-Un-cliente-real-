@@ -6,29 +6,33 @@
     align-items: center;
     color: white;
     overflow: hidden;
+    height: 100vh;
 }
 .TitleM{
     background-color: rgba(255, 255, 255, 0.24);
-    margin-bottom: 30px;
-    margin-top: 30px;
-    width: 300px;
+    margin-bottom: 10px;
+    margin-top: 115px;
     display: flex;
     justify-content: center;
     align-items:center;
     border-radius: 50px;
-    height: 60px;
+    width: calc(18rem + 10.5vw) !important;
+    height: calc(20rem + 10.5vw) !important;
 }
 .map-container{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.692);
-    width: 92%;
+    
+    width: 90%;
 }
 .map-container img{
-    width: 300px;
-    height: 470px;
+    margin-top: 20px;
+    width: calc(25rem + 10.5vw) !important;
+    height: calc(25rem + 10.5vw) !important;
+    margin-right:20px ;
+    margin-left: 20px;
 }
 .map-container span{
     margin-top: 20px;
@@ -38,13 +42,21 @@
     align-self: center;
     background-color: rgba(255, 255, 255, 0.24);
     text-align: center;
-    width: 270px;
-    height: 100px;
+    width: calc(15rem + 10.5vw) !important;
+    height: calc(5rem + 1.5vw) !important;;
     margin-bottom: 20px;
     border-radius:30px;
+    margin-right: 20px;
 
 }
 .map-container span p{
     margin: 0 !important;
     font-size: 30px;
+}
+@media screen and (min-width: 550px) {
+    .TitleM{
+        width: calc(20rem + 1.5vw);
+        height: calc(3rem + 1.5vw);
+    }
+
 }

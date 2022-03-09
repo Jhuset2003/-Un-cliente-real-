@@ -7,7 +7,7 @@ function SectionMap() {
             <div className="map-container">
                 <img src={demo} alt="" />
                 <span>
-                    <p>Domicilios solo a las cercanias</p>
+                    <h2>Domicilios solo a las cercanias</h2>
                 </span>
             </div>
         </section>
