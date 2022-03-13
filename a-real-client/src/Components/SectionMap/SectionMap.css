@@ -7,6 +7,7 @@
     color: white;
     overflow: hidden;
     height: 100vh;
+    margin-top:20px ;
 }
 .TitleM{
     background-color: rgba(255, 255, 255, 0.24);
@@ -17,7 +18,7 @@
     align-items:center;
     border-radius: 50px;
     width: calc(18rem + 10.5vw) !important;
-    height: calc(20rem + 10.5vw) !important;
+    height: calc(3rem + 3.5vw) !important;
 }
 .map-container{
     display: flex;
@@ -30,9 +31,10 @@
 .map-container img{
     margin-top: 20px;
     width: calc(25rem + 10.5vw) !important;
-    height: calc(25rem + 10.5vw) !important;
+    height: calc(16rem + 10.5vw) !important;
     margin-right:20px ;
     margin-left: 20px;
+    margin-bottom: 50px;
 }
 .map-container span{
     margin-top: 20px;
@@ -52,11 +54,4 @@
 .map-container span p{
     margin: 0 !important;
     font-size: 30px;
-}
-@media screen and (min-width: 550px) {
-    .TitleM{
-        width: calc(20rem + 1.5vw);
-        height: calc(3rem + 1.5vw);
-    }
-
 }

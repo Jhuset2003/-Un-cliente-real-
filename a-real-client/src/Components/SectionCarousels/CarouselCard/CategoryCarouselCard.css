@@ -1,0 +1,37 @@
+.sub-container img{
+    width: 200px;
+}
+.category-carousel{
+    margin-bottom: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+.sub-container{
+    background-color: rgba(255, 255, 255, 0.493);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    width: 250px;
+    height:50vh;
+    cursor: pointer;
+}
+.sub-container:focus{
+    background-color: aliceblue;
+}
+.sub-container h1{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.568);
+    height: 8vh;
+    width: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    align-self: center;
+    
+}

@@ -1,0 +1,14 @@
+.carouselgeneralcard{
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    justify-content: space-between;
+    margin-top: 20px;
+    height:auto;
+    gap: 150px;
+}
+.carousel-container{
+    width: 100%;
+    height: 100vh;
+
+}
