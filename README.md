@@ -16,8 +16,8 @@ https://elastic-perlman-4b5cea.netlify.app/
 
 ## Imágenes del proyecto:
 ##
-##
-Estructura de carpetas
+## Estructura de carpetas
 ![Image textt](https://github.com/Jhuset2003/-Un-cliente-real-/blob/main/a-real-client/src/Source/Img/IMG%20ReadMe/Captura%20de%20pantalla%20(8).png)
+## Web
 ![Image textt](https://github.com/Jhuset2003/-Un-cliente-real-/blob/main/a-real-client/src/Source/Img/IMG%20ReadMe/Captura%20de%20pantalla%20(9).png)
 
