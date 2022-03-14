@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eea2b77c.css",
+    "main.js": "/static/js/main.f97a835a.js",
+    "static/media/pexels-arthur-brognoli-3343621.jpg": "/static/media/pexels-arthur-brognoli-3343621.f18b001c1b53cccd60c5.jpg",
+    "static/media/Textura comida Tranparente.png": "/static/media/Textura comida Tranparente.b18ba742376cc42bdd6a.png",
+    "static/media/log.png": "/static/media/log.58687e135c5b28a90b32.png",
+    "index.html": "/index.html",
+    "main.eea2b77c.css.map": "/static/css/main.eea2b77c.css.map",
+    "main.f97a835a.js.map": "/static/js/main.f97a835a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eea2b77c.css",
+    "static/js/main.f97a835a.js"
+  ]
+}
