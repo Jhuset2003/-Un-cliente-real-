@@ -1,7 +1,6 @@
 import React,{useState} from 'react'
 import demo from "../../Source/Img/pexels-arthur-brognoli-3343621.jpg"
 import CarouselCard from './CarouselCard/CategoryCarouselCard'
-import MiniCarousels from './Carousels/MiniCarousels'
 import "./Info.css"
 
 
