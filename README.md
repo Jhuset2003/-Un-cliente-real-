@@ -13,7 +13,7 @@ Llegó el momento de interactuar con un cliente real para ello buscaremos un  es
 
 Link del proyecto desplegado:
 
-spooky-farm.surge.sh
+(spooky-farm.surge.sh)
 
 
 ## Imágenes del proyecto:
