@@ -3,15 +3,10 @@ Llegó el momento de interactuar con un cliente real para ello buscaremos un  es
 
 ## Lista de tecnologías utilizadas en el proyecto:
 -React 
+## Links
 
 [Product backlog](https://ajweb2003.atlassian.net/jira/software/projects/UCR/boards/1/backlog)
-
-
-
 [Diseño](https://www.figma.com/file/H1LLdBpy7V7ggKO0vCQK5X/Toquen-el-DOM?node-id=0%3A1)
-
-
-
 [Link del proyecto desplegadohttps](//jhuset2003.github.io/-Un-cliente-real-/)
 
 
