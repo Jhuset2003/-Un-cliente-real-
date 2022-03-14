@@ -11,7 +11,7 @@ Llegó el momento de interactuar con un cliente real para ello buscaremos un  es
 [Diseño](https://www.figma.com/file/H1LLdBpy7V7ggKO0vCQK5X/Toquen-el-DOM?node-id=0%3A1)
 
 
-[Link del proyecto desplegadohttps](//jhuset2003.github.io/-Un-cliente-real-/)
+[Link del proyecto desplegado](https//jhuset2003.github.io/-Un-cliente-real-/)
 
 
 ## Imágenes del proyecto:
